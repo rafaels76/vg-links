@@ -89,8 +89,15 @@ h6 {
   .linktree {
 	  width: 120px;
 	  height: 120px;
-	  background-image: url("https://i.imgur.com/oggcsIH.jpg");
+	  background-image: url("../img/venegroup-avatar.jpg");
 	  background-size: cover;
 	  background-repeat: no-repeat;
 	  background-position: 50% 50%;
   }
+  .button-separator{
+	padding-bottom: 15px;
+	
+  }
+  h2{color: #ffffff; padding-top: 20px;}
+  .title{padding-top: 30px; padding-bottom: 30px;}
+  .buttonLink {width: 80%; padding-top:10px; padding-bottom:10px;  font-weight: 600;}
